@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello Folks 👋 It's Nick Full-Stack Developer 
 
-Hello Folks 👋 It's Nick Full-Stack Developer 
 
 
 
