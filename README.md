@@ -12,4 +12,4 @@
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ...
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=niksonnet)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=niksonnet&show_icons=true&theme=onedark)
