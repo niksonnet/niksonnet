@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ... C# .NET / .NET Core WebAPIs / Node.js/ React.js / Angular / 
+- 🔭 I’m currently working on ... C# .NET / .NET Core WebAPIs / Node.js/ React.js / Angular / TypeScript 
 - 🌱 I’m currently learning ... Data Structures & Algorithms
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... 
